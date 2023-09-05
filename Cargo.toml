@@ -3,6 +3,7 @@ name = "chorus"
 version = "0.1.0"
 license = "AGPL-3"
 edition = "2021"
+repository = "https://github.com/bitfl0wer/chorus"
 
 [features]
 default = ["client"]
